@@ -1,0 +1,37 @@
+{
+  "_help": "Copy to courses.json and fill in. Keys: CODE is a short all-caps tag you will use everywhere (folder names, connector course keys, task prompts). d2l_id is the number in the D2L course URL: https://d2l.mu.edu/d2l/le/content/<d2l_id>/Home. type is 'doctrinal' (outline-building course) or 'workshop' (writing course: brief, no outline). casebook is optional; fill it only for books you have on Casebook Connect.",
+  "student": {
+    "name": "First Last",
+    "honorific": "Mr. Last",
+    "school": "Marquette University Law School",
+    "year_label": "2L",
+    "jd_year": "2028",
+    "semester": "Fall 2026",
+    "semester_week1_monday": "2026-08-24",
+    "d2l_base": "https://d2l.mu.edu",
+    "drive_root": "Google Drive / Marquette Law School / Fall 2026",
+    "assistant_name": "",
+    "assistant_note": "Optional. If you run a separate scheduling/calendar assistant (Jacob's is called Leyna), name it here and the prompts will tell the course projects to hand it deadlines instead of keeping their own calendar. Leave blank to have the course projects put deadlines on your Google Calendar directly."
+  },
+  "courses": [
+    {
+      "code": "EXAMPLE",
+      "title": "Course Title",
+      "number": "LAW 0000 101",
+      "d2l_id": 0,
+      "professor": "Prof. Name",
+      "prof_email": "",
+      "meets": "Mon/Wed 10:30-11:50",
+      "no_class": "",
+      "type": "doctrinal",
+      "casebook": {
+        "title": "Author, TITLE (Nth ed. YYYY)",
+        "isbn": "",
+        "on_casebook_connect": false
+      },
+      "assignment_source": "Where the reading schedule lives, e.g. 'syllabus schedule section' or 'Assignment Listing PDF on D2L'",
+      "exam": "format if known: open/closed book, outline page limit, date",
+      "notes": "Anything the course assistant should know about how this professor teaches and tests. Written as instructions to Claude."
+    }
+  ]
+}

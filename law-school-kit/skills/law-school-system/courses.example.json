@@ -1,0 +1,92 @@
+{
+  "student": {
+    "name": "Jacob Neaves",
+    "honorific": "Mr. Neaves",
+    "school": "Marquette University Law School",
+    "year_label": "2L",
+    "jd_year": "2028",
+    "semester": "Fall 2026",
+    "semester_week1_monday": "2026-08-24",
+    "d2l_base": "https://d2l.mu.edu",
+    "drive_root": "Google Drive / Marquette Law School / Fall 2026",
+    "assistant_name": "Leyna",
+    "assistant_note": ""
+  },
+  "courses": [
+    {
+      "code": "EVID",
+      "title": "Evidence",
+      "number": "LAW 7191 103",
+      "d2l_id": 652683,
+      "professor": "O'Hear",
+      "prof_email": "",
+      "meets": "Wed 14:00-15:20, Fri 13:30-14:50",
+      "no_class": "",
+      "type": "doctrinal",
+      "casebook": { "title": "Course packets posted to D2L (rules, cases, problems)", "isbn": "", "on_casebook_connect": false },
+      "assignment_source": "'Assignments and Problems Evidence 2026F.docx' on D2L",
+      "exam": "Closed book, closed notes, rules and statutes supplied. Graded quizzes Oct 2, Oct 23, Nov 13; final tentatively Dec 12.",
+      "notes": "Evidence is the most rule-bound course. The Federal Rules ARE the outline: structure it by FRE numbering (100s, 401-415, 501-502, 601-615, 701-706, 801-807, 901-903, 1001-1008), not by casebook chapter. Build Article VIII (hearsay) deepest and confidence-score every exception individually. Closed book means the outline is a memorization aid, not a lookup instrument."
+    },
+    {
+      "code": "BA",
+      "title": "Business Associations",
+      "number": "LAW 7125 101",
+      "d2l_id": 654834,
+      "professor": "Nadelle Grossman",
+      "prof_email": "",
+      "meets": "Wed 10:30-11:50, Fri 10:30-11:50",
+      "no_class": "Fri Nov 6",
+      "type": "doctrinal",
+      "casebook": { "title": "Sjostrom, BUSINESS ORGANIZATIONS: A TRANSACTIONAL APPROACH (4th ed. 2023)", "isbn": "9798886144543", "on_casebook_connect": true },
+      "assignment_source": "'BA Assignment Listing Fall 2026 (Exhibit C)' on D2L: ASSN 1-26, no dates, mapped onto the Wed/Fri meeting calendar",
+      "exam": "Wed Dec 16, Examplify, 3.5 hours, 70%. Open hard-copy textbook plus a printed personal outline of 25 pages or fewer. No AI, no internet.",
+      "notes": "She tests application, not recitation: two supplemental hypo sets posted before day one, iClicker every class, one running fact pattern on the exam. Build the outline as a hypo-solving instrument: rule, elements, application trigger. Case names go on the authority line, never as headers. Mark every rule default [D] or mandatory [M]. The exam is governed by 'Delamore', identical to the model acts, Delaware statutes, and assigned cases, so record MBCA/DGCL, RUPA/Delaware, RULLCA/WILLCA splits wherever they diverge. Hard 25-page outline ceiling: build to it from day one."
+    },
+    {
+      "code": "TE",
+      "title": "Trusts and Estates",
+      "number": "LAW 7332 101",
+      "d2l_id": 654862,
+      "professor": "Felicia Caponigri",
+      "prof_email": "",
+      "meets": "Wed 9:00-10:20, Fri 9:00-10:20",
+      "no_class": "",
+      "type": "doctrinal",
+      "casebook": { "title": "Sitkoff & Dukeminier, WILLS, TRUSTS, AND ESTATES (12th ed. 2025)", "isbn": "9798892075114", "on_casebook_connect": true },
+      "assignment_source": "Schedule section inside the syllabus (TE_SYLLABUS_Caponigri_Fall2026)",
+      "exam": "In-class final, 80%, OPEN OUTLINE + OPEN CASEBOOK. Date per the Law School exam schedule.",
+      "notes": "AI policy directly governs these notes: AI-phrased rule statements are permitted but every one must carry an AI cite that is reproduced on the exam next to the case cite; keep an AI citation ledger as an appendix of the master outline. AI may NOT be used to parse the Wisconsin statutes: leave statute sections blank for the student to read. She frames gratuitous transfer through familial, societal, and cultural heritage; capture that dimension, it surfaces in her essay prompts. Graded engagement with assigned case studies (films, articles) is 10% of the grade."
+    },
+    {
+      "code": "PRIV",
+      "title": "Privacy",
+      "number": "LAW 7267 101",
+      "d2l_id": 654861,
+      "professor": "Bruce Boyden",
+      "prof_email": "",
+      "meets": "Tue 10:30-11:45, Thu 10:30-11:45",
+      "no_class": "Thu Nov 26",
+      "type": "doctrinal",
+      "casebook": { "title": "McGeveran, Privacy and Data Protection Law (2d ed. 2023)", "isbn": "9781642421125", "on_casebook_connect": false },
+      "assignment_source": "'Privacy Syllabus - Fall 2026 (Boyden)' on D2L; he versions the syllabus ('Ver. 1 8/21/26' in the footer), a version bump means re-pull",
+      "exam": "TBD. D2L has a Past Exams module: pull it first and build the outline backward from it.",
+      "notes": "Boyden organizes D2L by Unit, roughly one per class period, and adds Units as the semester runs. Track units in the synthesis and mirror the unit sequence in the outline. The course opens with constitutional privacy and shifts to statutory element-checking partway through; structure accordingly."
+    },
+    {
+      "code": "AWA",
+      "title": "Appellate Writing and Advocacy",
+      "number": "LAW 7705 701",
+      "d2l_id": 654825,
+      "professor": "Koenig",
+      "prof_email": "",
+      "meets": "Wed 17:00-19:30",
+      "no_class": "",
+      "type": "workshop",
+      "casebook": { "title": "", "isbn": "", "on_casebook_connect": false },
+      "assignment_source": "Per-class from D2L; no semester-long listing",
+      "exam": "No exam. Deliverable is a brief. Course runs to January 30, 2027.",
+      "notes": "Writing workshop, not doctrinal. Loop is draft -> critique -> revise. Match the student's existing brief-writing voice from prior work in 04 Research rather than generating a generic legal register. Critique directly; do not rewrite silently. The brief is a likely OCI writing sample."
+    }
+  ]
+}
