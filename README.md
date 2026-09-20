@@ -37,6 +37,7 @@ passwords or cookies.
 | `/law-school-kit:update-outline KEY N` | Merge the synthesis into the one master outline |
 | `/law-school-kit:audit KEY` | Dedupe, cross-link, confidence-1 work list |
 | `/law-school-kit:week-ahead` | Next week's assignments and deadlines, checked against the tracker |
+| `/law-school-kit:remote-agent <url>` | Build the system on a classmate's Mac through the setup agent they run (`setup-agent/` in the repo), over Tailscale |
 
 Works in the Claude Code CLI and in the Claude Desktop app's Code tab
 (Settings → Plugins, or the `/plugin` command). To try it before it is

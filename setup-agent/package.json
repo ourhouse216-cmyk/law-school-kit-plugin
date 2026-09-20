@@ -1,0 +1,19 @@
+{
+  "name": "law-school-setup-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Consent-based MCP setup agent a classmate runs on their own Mac so a trusted helper's Claude can build the law-school study system there over Tailscale.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test-refusals.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "zod": "^3.25.0"
+  }
+}

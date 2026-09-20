@@ -1,6 +1,6 @@
 {
   "name": "law-school-kit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Law-school study system for Claude: Drive-as-source-of-truth folder tree, per-course Project prompts, a read-only D2L Brightspace connector build brief, an optional Casebook Connect connector, and Cowork scheduled tasks for nightly book notes, weekly D2L mirroring, week-ahead planning, and Friday outline merges.",
   "author": { "name": "Jacob Neaves" },
   "keywords": ["law-school", "d2l", "brightspace", "casebook", "outlining", "cowork"],

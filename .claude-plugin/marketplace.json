@@ -7,7 +7,7 @@
       "name": "law-school-kit",
       "source": "./law-school-kit",
       "description": "Drive folder tree, per-course Claude Projects, D2L connector, Casebook connector, and Cowork automations for law school.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "education",
       "keywords": ["law-school", "d2l", "casebook", "outlining"]
     }
